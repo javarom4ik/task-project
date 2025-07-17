@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project_service/project_service.iml" filepath="$PROJECT_DIR$/project_service/project_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task_service/task_service.iml" filepath="$PROJECT_DIR$/task_service/task_service.iml" />
+    </modules>
+  </component>
+</project>
